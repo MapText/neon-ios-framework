@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F9DB7ED6478DB1955BC21E1F36FA01714F63929F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5F1F51D749E689558155863AACD60284252A6451" : 9223372036854775807,
+    "F9DB7ED6478DB1955BC21E1F36FA01714F63929F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "16B1C619-1988-4A89-8206-67C69EA32CA0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5F1F51D749E689558155863AACD60284252A6451" : "",
+    "F9DB7ED6478DB1955BC21E1F36FA01714F63929F" : "neon-ios-framework\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Neon",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Neon\/Neon.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/mtsrv.maptext.local:9443\/scm\/fmap\/external-libs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F1F51D749E689558155863AACD60284252A6451"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MapText\/neon-ios-framework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9DB7ED6478DB1955BC21E1F36FA01714F63929F"
+    }
+  ]
+}
